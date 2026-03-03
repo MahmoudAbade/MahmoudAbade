@@ -21,16 +21,16 @@
 ## Creations 👨‍💻
 
 ### 🎬 [Cinema Booking System](https://github.com/MahmoudAbade/Cinema.git)
-Architected a 3-module client-server solution comprising 155 Java classes for an end-to-end booking prototype. Developed a responsive JavaFX UI, an OCSF-based server with Hibernate persistence, and containerized the entire stack with Docker, cutting deployment time to under 2 minutes.
+* Architected a 3-module client-server solution comprising 155 Java classes for an end-to-end booking prototype. Developed a responsive JavaFX UI, an OCSF-based server with Hibernate persistence, and containerized the entire stack with Docker, cutting deployment time to under 2 minutes.
 
 ### ♟️ [AI Chess Game: Two Flags](https://github.com/MahmoudAbade/Two-flags.git)
-An AI-powered tactical simplified chess game focused on pawn promotion and board control. Players control only pawns, balancing between racing to promote and controlling the board, demonstrating core algorithmic design and AI search strategies.
+* An AI-powered tactical simplified chess game focused on pawn promotion and board control. Players control only pawns, balancing between racing to promote and controlling the board, demonstrating core algorithmic design and AI search strategies.
 
 ### 🧠 [Machine Learning Face Classification](https://github.com/MahmoudAbade/ML-HW/blob/ad3da3b0d2fe74c117fdd977bf81e3c2344dbbd4/HW3.ipynb)
-An implementation of face detection from a Kaggle dataset to classify smiling faces using advanced ML techniques, PyTorch, and Scikit-learn.
+* An implementation of face detection from a Kaggle dataset to classify smiling faces using advanced ML techniques, PyTorch, and Scikit-learn.
 
 ### 🌐 [Personal Portfolio](https://github.com/MahmoudAbade/portfolio.git)
-A full-stack project utilizing modern structural patterns (HTML, CSS, JS, Vite/React) demonstrating my core web development skills and showcasing my projects, hobbies and interests.
+* A full-stack project utilizing modern structural patterns (HTML, CSS, JS, Vite/React) demonstrating my core web development skills and showcasing my projects, hobbies and interests.
 ---
 
 ## 🎓 Education & 💼 Experience
