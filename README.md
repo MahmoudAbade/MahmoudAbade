@@ -9,7 +9,7 @@ I'm a computer science student and advanced junior developer passionate about bu
 ---
 
 ### 🔎 What I'm Looking For
-- **Roles:** Full Stack Developer, AI/ML Engineer, Backend Developer, or Software Engineer.
+- **Roles:** Full Stack Developer, AI/ML Engineer, Vision & DL Developer, Software Architecture Engineer.
 - **Environments:** Teams that value clean code, continuous learning, and community collaboration. 🤝
 - **Interests:** Bridging the gap between front-end user experiences, robust back-end architectures, and advanced data/ML pipelines.
 
