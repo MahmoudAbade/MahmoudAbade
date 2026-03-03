@@ -39,6 +39,9 @@ A full-stack project utilizing modern structural patterns (HTML, CSS, JS, Vite/R
 * **Relevant Coursework:** Software Engineering, AI Lab, Machine Learning, Computer Vision, Data Structures, Design & Analysis of Algorithms, OOP, and Operating Systems.
 * **Advanced Studies:** Delving deeper into Deep Learning (CNNs, Transformers, VAEs), Reinforcement Learning, and Digital Image Processing. Also expanding my problem-solving repertoire with courses in Economics and Finance.
 
+### DevOps Course Completion Certificate | HackerU College 🏆
+* **Mastered Technologies:** Comprehensive hands-on training covering the entire DevOps lifecycle, including **Docker**, **Kubernetes**, **Elastic**, **Kibana**, **Jenkins**, **AWS**, and **Terraform**.
+
 ### Key Experience 
 * **Full-Stack Development:** Contributed to a collaborative Java application (JavaFX frontend, OCSF design pattern backend) across multiple semesters in teams of 5+.
 * **Computer Vision & AI:** Implemented object detection, image classification, and image stitching using OpenCV and Scikit-learn. Deployed and verified simple to complex machine learning models. 👁️‍🗨️
@@ -92,14 +95,14 @@ A full-stack project utilizing modern structural patterns (HTML, CSS, JS, Vite/R
 class Developer:
     def __init__(self):
         self.name = "Mahmoud Abade"
-        self.role = "AI & Full Stack Engineer"
+        self.role = "AI & Full Stack Architect Engineer"
         self.coffee_cup_full = True
 
     def build_intelligent_systems(self):
         while self.coffee_cup_full:
             self.train_models()
             self.develop_fullstack_apps()
-            self.collaborate_with_community()
+            self.play_volleyball()
             
 # - Mahmoud Abade
 
