@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A78BFA,100:F472B6&height=200&section=header&text=Mahmoud%20Abade&fontSize=52&fontColor=fff&fontAlignY=38&desc=ML%20%C2%B7%20Computer%20Vision%20%C2%B7%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-abade)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+972527904941)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmood.abadi2000@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoudabade.github.io)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
@@ -156,6 +157,7 @@ Smile detection and face classification from Kaggle dataset. Feature engineering
 | 🏅 AI Laboratory | University of Haifa | **87** |
 | 🏅 Artificial Intelligence | University of Haifa | **84** |
 | 🏅 Machine Learning | University of Haifa | **83** |
+| 🏅 Software Engineering | University of Haifa | **82** |
 | ✅ Deep Learning | University of Haifa | **78** |
 | ✅ Operating Systems | University of Haifa | **78** |
 
