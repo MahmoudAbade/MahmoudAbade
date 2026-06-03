@@ -196,6 +196,7 @@ Smile detection and face classification from Kaggle dataset. Feature engineering
 ### 💬 Let's build something together
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-abade)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+972527904941)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmood.abadi2000@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A78BFA,100:6EE7F7&height=100&section=footer" />
