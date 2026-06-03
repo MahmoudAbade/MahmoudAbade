@@ -1,148 +1,175 @@
-<h1 align="center"> Hi 👋🏻, I'm Mahmoud Abade </br> </h1>
-<p align="center">Multi-disciplinary AI, ML & Full Stack Engineer 🚀</p>
-<p align="center">Building intelligent systems across the stack ✨</p>
-<p align="center">
- <a href="https://linkedin.com/in/Mahmoud-Abade" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
- <a href="mailto:mahmood.abadi2000@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836&style=for-the-badge" style="vertical-align:center" /></a>
- <a href="https://github.com/MahmoudAbade" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
-</p>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   mahmoud@haifa:~$ ./init_profile.sh                 ║
+║   > Loading Mahmoud Abade...                         ║
+║   > Role: ML · Computer Vision · Software Engineer   ║
+║   > Status: [OPEN TO WORK] ✦                         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+# Mahmoud Abade
+
+**Machine Learning · Computer Vision · Software Engineering**
+
+*CS Graduate @ University of Haifa — building intelligent systems from research to deployment*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-abade)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudAbade)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmood.abadi2000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mahmoudabade.github.io)
+
+</div>
 
 ---
 
-## 🔎 About Me & What I'm Looking For
+## `$ whoami`
 
-* **Who I am:** An advanced junior developer and CS student at the University of Haifa (Class of 2026), deeply passionate about Artificial Intelligence, Computer Vision, and bringing impactful ideas to life.
-* **Roles:** Actively looking for Developer roles including Full Stack Developer, AI/ML Engineer, Vision & DL Developer, and Software Architecture Engineer.
-* **Environments:** I thrive in teams that value clean code, continuous learning, and community collaboration. 🤝
-* **My Goal:** Bridging the gap between front-end user experiences, robust back-end architectures, and advanced data/ML pipelines.
+I'm a Computer Science graduate specializing in **Machine Learning, Computer Vision, and Robotics**. I care about the full arc of a project — from mathematical foundations through to production-ready, deployed code.
 
----
+My work lives at the intersection of **real-time perception** (SLAM, pose estimation), **deep learning** (CNNs, transformers, reinforcement learning), and **robust software engineering** (CI/CD, containerization, scalable architecture).
 
-## Creations 👨‍💻
-
-### 🎬 [Cinema Booking System](https://github.com/MahmoudAbade/Cinema.git)
-* Architected a 3-module client-server solution comprising 155 Java classes for an end-to-end booking prototype. Developed a responsive JavaFX UI, an OCSF-based server with Hibernate persistence, and containerized the entire stack with Docker, cutting deployment time to under 2 minutes.
-
-### ♟️ [AI Chess Game: Two Flags](https://github.com/MahmoudAbade/Two-flags.git)
-* An AI-powered tactical simplified chess game focused on pawn promotion and board control. Players control only pawns, balancing between racing to promote and controlling the board, demonstrating core algorithmic design and AI search strategies.
-
-### 🧠 [Machine Learning Face Classification](https://github.com/MahmoudAbade/ML-HW/blob/ad3da3b0d2fe74c117fdd977bf81e3c2344dbbd4/HW3.ipynb)
-* An implementation of face detection from a Kaggle dataset to classify smiling faces using advanced ML techniques, PyTorch, and Scikit-learn.
-
-### 🌐 [Personal Portfolio](https://github.com/MahmoudAbade/portfolio.git)
-* A full-stack project utilizing modern structural patterns (HTML, CSS, JS, Vite/React) demonstrating my core web development skills and showcasing my projects, hobbies and interests.
----
-
-## 🎓 Education & 💼 Experience
-
-### BSc in Computer Science | University of Haifa (Exp. 2026) 🎓
-* **Relevant Coursework:** Software Engineering, AI Lab, Machine Learning, Computer Vision, Data Structures, Design & Analysis of Algorithms, OOP, and Operating Systems.
-* **Advanced Studies:** Delving deeper into Deep Learning (CNNs, Transformers, VAEs), Reinforcement Learning, and Digital Image Processing. Also expanding my problem-solving repertoire with courses in Economics and Finance.
-
-### DevOps Course Completion Certificate | HackerU College 🏆
-* **Mastered Technologies:** Comprehensive hands-on training covering the entire DevOps lifecycle, including **Docker**, **Kubernetes**, **Elastic**, **Kibana**, **Jenkins**, **AWS**, and **Terraform**.
-
-### Key Experience 
-* **Full-Stack Development:** Contributed to a collaborative Java application (JavaFX frontend, OCSF design pattern backend) across multiple semesters in teams of 5+.
-* **Computer Vision & AI:** Implemented object detection, image classification, and image stitching using OpenCV and Scikit-learn. Deployed and verified simple to complex machine learning models. 👁️‍🗨️
+I'm actively looking for **Software Engineering / ML / CV roles** where I can contribute to systems that actually matter.
 
 ---
 
-## Tech Stack 💻
+## `$ ls ./projects`
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
-![Pine Script](https://img.shields.io/badge/-Pine_Script-000?style=for-the-badge&logo=tradingview&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### AI, Machine Learning & Computer Vision
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=150458)
-![Ollama](https://img.shields.io/badge/-Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)
+### 🗺️ SLAM Map Builder — `100/100`
+Full C++ SLAM pipeline with real-time 3D trajectory estimation and pose tracking via rotation matrices. Live point-cloud visualization with Pangolin OpenGL on WSL.
 
-#### Frontend & Web
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+`C++` `OpenCV` `Pangolin` `CMake` `WSL`
 
-#### Backend & Databases
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+</td>
+<td width="50%" valign="top">
 
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05033)
-![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx&logoColor=009639)
+### 🧠 Deep Learning Portfolio
+10+ end-to-end notebooks: SVMs, decision trees, k-means, neural networks. Full pipelines from data preprocessing through evaluation (F1, precision, recall).
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mahmoud Abade"
-        self.role = "AI & Full Stack Architect Engineer"
-        self.coffee_cup_full = True
+`Python` `PyTorch` `scikit-learn` `NumPy` `Kaggle`
 
-    def build_intelligent_systems(self):
-        while self.coffee_cup_full:
-            self.train_models()
-            self.develop_fullstack_apps()
-            self.play_volleyball()
-            
-# - Mahmoud Abade
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🎬 Cinema Management System
+3-module booking platform: 155 Java classes, JavaFX UI, OCSF/Hibernate backend, Docker deployment under 2 minutes. Built with a 6-person team.
+
+`Java` `JavaFX` `Hibernate` `Docker` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps CI/CD Infrastructure
+Automated Jenkins pipelines with Groovy Jenkinsfiles and Docker Compose. Environment parity across dev, test, and production — containerized Flask application.
+
+`Docker` `Jenkins` `Linux` `Groovy` `Flask`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ♟️ Two Flags — AI Chess Game
+Tactical pawn-only chess variant demonstrating minimax search, game tree evaluation, and AI design patterns. Pure algorithmic gameplay.
+
+`Java` `AI Search` `Minimax` `Game Theory`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Face Classification (ML HW3)
+Face detection and smile classification from Kaggle dataset using advanced ML pipelines. Feature engineering, model training, and evaluation.
+
+`Python` `PyTorch` `scikit-learn` `OpenCV`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat skills.json`
+
+```json
+{
+  "languages":    ["C++", "Python", "Java", "JavaScript", "SQL", "Bash"],
+  "ai_ml_cv":     ["SLAM", "OpenCV", "PyTorch", "TensorFlow", "scikit-learn",
+                   "Deep Learning", "CNNs", "Pose Estimation", "NumPy", "Pandas"],
+  "devops":       ["Docker", "Kubernetes", "Jenkins", "GitHub Actions",
+                   "AWS", "Terraform", "Linux", "CMake", "Git"],
+  "web":          ["React", "Next.js", "Node.js", "Flask", "MySQL", "MongoDB"],
+  "concepts":     ["SLAM", "Feature Extraction", "Localization & Mapping",
+                   "Probabilistic Algorithms", "Software Architecture", "CI/CD"]
+}
 ```
 
 ---
 
-## Hobbies & Interests 🏐
+## `$ cat academics.log`
 
-Beyond code, I'm deeply interested in Mathematics, Finance, and Data Science. I'm also a huge team player! I am one of the Management Group members and founders of the **Valley Orcas Volleyball Team**, where I help raise funds, gather players, and build community on the court.
+```
+University of Haifa — B.Sc. Computer Science (Graduated, GPA: 79)
+HackerU — DevOps & Cloud Infrastructure (Certified)
 
----
-
-## GitHub Stats 📊
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbade&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-
-
-
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=MahmoudAbade&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-
-
-
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=MahmoudAbade&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+Top grades:
+  [100] Navigation, Mapping & Localization
+  [ 92] Computer Vision
+  [ 92] Linear Algebra
+  [ 88] Applied AI in Hardware Seminar
+  [ 87] AI Laboratory
+  [ 84] Artificial Intelligence
+  [ 83] Machine Learning
+  [ 79] Advanced Data Structures
+  [ 78] Deep Learning
+  [ 78] Operating Systems
+```
 
 ---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MahmoudAbade/MahmoudAbade/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
+## `$ uptime --personal`
+
+```
+Beyond the terminal:
+  ✦ Co-founder & management team — Valley Orcas Volleyball
+  ✦ Interested in Mathematics, Finance & Data Science
+  ✦ Presented: Deep RL for Functional Coverage Closure
+  ✦ Arabic (native) · Hebrew (fluent) · English (professional)
+  ✦ Based in Kfar Qara, Israel
+```
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbade&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbade&theme=tokyonight&hide_border=true&layout=compact&count_private=false" />
+
+<img width="480" src="https://nirzak-streak-stats.vercel.app/?user=MahmoudAbade&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+mahmoud@haifa:~$ echo "Let's build something together"
+Let's build something together
+
+mahmoud@haifa:~$ █
+```
+
+**[mahmood.abadi2000@gmail.com](mailto:mahmood.abadi2000@gmail.com) · [linkedin.com/in/mahmoud-abade](https://linkedin.com/in/mahmoud-abade)**
+
+</div>
